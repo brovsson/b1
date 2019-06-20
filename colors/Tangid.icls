@@ -1,7 +1,7 @@
 <scheme name="Tangid" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -491,6 +491,11 @@
       <value>
         <option name="FOREGROUND" value="b280ee" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="47eee9" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
